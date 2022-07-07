@@ -233,7 +233,7 @@ menu() {
 		6) deleteTunnel ;;
 		7) argoCert ;;
 		8) uninstallCloudFlared ;;
-		9) wget -N https://raw.githubusercontent.com/Misaka-blog/argo-tunnel-script/master/argo.sh && bash argo.sh ;;
+		9) wget -N https://raw.githubusercontent.com/Mcxunyun666/argo-tunnel-script-backup/master/argo.sh && bash argo.sh ;;
 		*) exit 1 ;;
 	esac
 }
